@@ -1,4 +1,4 @@
-# Child Health Indicators - Linear Regression using Neural Networks (Keras)
+# Child Health Indicators - Linear Regression using ANN (Keras)
 
 Predict child mortality rate (between ages 1 and 5) depending on the water and sanitation conditions from current and past years.
 
